@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Solidity, Javascript, Web3, React, Python, SQL, ML**
 
-- 📫 How to reach me **mertkaya783@hotmail.com**
+- 📫 Reach me through **mertkaya783@hotmail.com**
 
 - ⚡ Fun fact **I am a former data-scientist.**
 
