@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing an intership on [Microverse](https://www.microverse.org/)
 
-- 👯 Looking oppurtunuties for **Web3 projects**
+- 👯 Looking opportunities for **Web3 projects**
 
 - 🤝 Interested in **Web3, DeFi, NFT/SFT, Solidity, React**
 
